@@ -8,11 +8,12 @@ package cardtrick;
 /**
  *
  * @author Sandy
+ * Student Number: 991174899
  */
 public class CardTrick {
     public static void main(String[] args)
     {
-       
+       Card card = new Card();
     }
     
 }
